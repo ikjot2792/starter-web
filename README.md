@@ -9,3 +9,9 @@ deplyment
 ## Purpose
 
 ## How to contribute
+
+
+## copyright
+
+added copyrigth
+
